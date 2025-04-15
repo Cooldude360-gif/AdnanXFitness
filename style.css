@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: aliceblue;
+}
+main {
+    background-color: #164A5B;
+    color: #F0F8FF;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+nav {
+    text-align: center;
+    font-weight: bold;
+    background-color: #4e7886;
+    height: 100px;
+    position: relative;
+}
+a {
+    margin: 30px;
+    position: relative;
+    bottom: -40px;
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #87CEEB; /* Gold adds a stylish contrast */
+    transition: 0.3s ease-in-out;
+}
+h1 {
+    display: flex;
+    align-items: center; /* Centers content vertically */
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    background-color: #001F3F;
+    height: 100px;
+}
+::-webkit-scrollbar {
+    width: 8px; /* Slim and stylish */
+    background-color: #001F3F; /* Dark blue matching your h1 */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #4E7886; /* Consistent with your navbar */
+    border-radius: 10px; /* Adds a soft rounded effect */
+}
