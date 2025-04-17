@@ -1,6 +1,6 @@
 # My Website
 
-🚀 **Live Site:** [Visit Here](https://yourusername.github.io/repository-name/)  
+🚀 **Live Site:** [Visit Here](https://cooldude360-gif.github.io/AdnanXFitness/index.html)  
 
 ## About
 This website is designed to showcase the art of living with a healthy lifestyle. It covers healthy diets along with very effective exercises to help people reach their full potential.  
